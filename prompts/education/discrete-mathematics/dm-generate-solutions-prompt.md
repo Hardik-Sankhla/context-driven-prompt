@@ -316,21 +316,34 @@ Expand ALL answers further.
 
 If any answer can be made more detailed, do it.
 
-Add:
-- More intermediate steps
-- More explanation
-- More justification
-- Add missing diagrams wherever required
+Improve BOTH text quality and diagram quality.
 
-Now check ALL answers again.
+For EACH answer:
 
-For every question that requires a diagram:
-- If diagram is missing -> DRAW it
-- If diagram is weak -> IMPROVE it
+1. Improve conceptual clarity, structure, and mathematical precision.
+2. Add missing intermediate steps and stronger justification.
+3. Ensure diagram correctness and readability where applicable.
+4. Keep text and diagrams cleanly separated:
+  - Write explanation as normal prose or numbered steps.
+  - Put each diagram in its own labeled block.
+  - Do NOT mix diagram characters into running sentences.
+  - Do NOT leave partial or broken diagrams.
+5. For every question that requires a diagram:
+  - If diagram is missing -> DRAW it.
+  - If diagram is weak, unclear, or misaligned -> REDRAW it cleanly.
+6. After adding or improving diagrams, rewrite nearby text so references are explicit.
 
-Do not skip ANY diagram.
+Formatting requirements:
 
-Rewrite answers where needed.
+- Use this answer order consistently:
+  Concept -> Diagram (if applicable) -> Steps -> Final answer.
+- Keep diagrams monospaced and aligned.
+- In LaTeX output, place diagrams in dedicated environments (TikZ/array/tabular) and keep prose outside those blocks.
+- Remove duplicated text, broken spacing, and mixed fragments.
 
-Make it impossible to lose marks.
+Do not skip ANY required diagram.
+
+Rewrite answers wherever needed.
+
+Return a clean, professional, exam-ready final version.
 ```
