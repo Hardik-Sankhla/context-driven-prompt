@@ -47,7 +47,7 @@ Every prompt should include:
 
 ## Current Prompt Collection
 
-- prompts/education/discrete-mathematics/dm-generate-solutions-prompt.md
+- [Discrete Mathematics Solution Prompt Guide](prompts/education/discrete-mathematics/dm-generate-solutions-prompt.md)
 
 ## Community Note
 
