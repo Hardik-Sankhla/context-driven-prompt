@@ -33,6 +33,8 @@ context-driven-prompt/
 
 Read CONTRIBUTING.md for full details.
 
+Pull requests use the template at .github/pull_request_template.md.
+
 ## Prompt Quality Standards
 
 Every prompt should include:
@@ -52,3 +54,7 @@ Every prompt should include:
 This repository is maintained as a collaborative project.
 
 Contributions from students, developers, educators, researchers, and practitioners are welcome.
+
+## License
+
+This project is licensed under the MIT License. See LICENSE.
