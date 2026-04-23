@@ -17,8 +17,10 @@ context-driven-prompt/
 ├─ prompts/
 │  ├─ README.md
 │  └─ education/
-│     └─ discrete-mathematics/
-│        └─ dm-generate-solutions-prompt.md
+│     ├─ discrete-mathematics/
+│     │  └─ dm-generate-solutions-prompt.md
+│     └─ microprocessor/
+│        └─ mp-generate-solutions-prompt.md
 └─ templates/
    └─ prompt-template.md
 ```
@@ -48,6 +50,7 @@ Every prompt should include:
 ## Current Prompt Collection
 
 - [Discrete Mathematics Solution Prompt Guide](prompts/education/discrete-mathematics/dm-generate-solutions-prompt.md)
+- [Microprocessor Solution Prompt Guide](prompts/education/microprocessor/mp-generate-solutions-prompt.md)
 
 ## Community Note
 

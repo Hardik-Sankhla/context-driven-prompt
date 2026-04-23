@@ -13,3 +13,4 @@ prompts/<domain>/<topic>/<prompt-name>.md
 ## Current Prompts
 
 - prompts/education/discrete-mathematics/dm-generate-solutions-prompt.md
+- prompts/education/microprocessor/mp-generate-solutions-prompt.md
