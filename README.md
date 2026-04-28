@@ -16,11 +16,14 @@ context-driven-prompt/
 ├─ CONTRIBUTING.md
 ├─ prompts/
 │  ├─ README.md
+│  ├─ PROMPTS_OVERVIEW.md
 │  └─ education/
 │     ├─ discrete-mathematics/
 │     │  └─ dm-generate-solutions-prompt.md
-│     └─ microprocessor/
-│        └─ mp-generate-solutions-prompt.md
+│     ├─ microprocessor/
+│     │  └─ mp-generate-solutions-prompt.md
+│     └─ theory-of-computation/
+│        └─ toc-master-prompt.md
 └─ templates/
    └─ prompt-template.md
 ```
@@ -49,8 +52,10 @@ Every prompt should include:
 
 ## Current Prompt Collection
 
+- [Prompt Library Overview](prompts/PROMPTS_OVERVIEW.md)
 - [Discrete Mathematics Solution Prompt Guide](prompts/education/discrete-mathematics/dm-generate-solutions-prompt.md)
 - [Microprocessor Solution Prompt Guide](prompts/education/microprocessor/mp-generate-solutions-prompt.md)
+- [Theory of Computation Solution Prompt Guide](prompts/education/theory-of-computation/toc-master-prompt.md)
 
 ## Community Note
 
