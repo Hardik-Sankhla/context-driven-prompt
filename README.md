@@ -53,6 +53,7 @@ Every prompt should include:
 ## Current Prompt Collection
 
 - [Prompt Library Overview](prompts/PROMPTS_OVERVIEW.md)
+- [Database Management Systems Solution Prompt Guide](prompts/education/database-management-systems/dbms-exam-solutions-prompt.md)
 - [Discrete Mathematics Solution Prompt Guide](prompts/education/discrete-mathematics/dm-generate-solutions-prompt.md)
 - [Microprocessor Solution Prompt Guide](prompts/education/microprocessor/mp-generate-solutions-prompt.md)
 - [Theory of Computation Solution Prompt Guide](prompts/education/theory-of-computation/toc-master-prompt.md)

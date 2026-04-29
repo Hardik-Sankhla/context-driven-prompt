@@ -4,9 +4,11 @@ This file documents the prompt collection under `prompts/education/` and explain
 
 ## Prompts included
 
-- [prompts/education/microprocessor/mp-generate-solutions-prompt.md](prompts/education/microprocessor/mp-generate-solutions-prompt.md) — Microprocessor Solution Prompt Guide (8085 & 8051). Enforces: exam-structured LaTeX solutions, mandatory diagrams/waveforms for hardware/timing/interfacing questions, CO/unit mapping, 4-phase workflow (decoding → solve → examiner review → LaTeX cleanup).
+- [prompts/education/database-management-systems/dbms-exam-solutions-prompt.md](prompts/education/database-management-systems/dbms-exam-solutions-prompt.md) — Database Management Systems Solution Prompt Guide. Enforces: exam-structured LaTeX solutions, mandatory diagrams for ER models, normalization, and B+ trees, CO/unit mapping, 4-phase workflow (decoding → solve → examiner review → LaTeX cleanup).
 
 - [prompts/education/discrete-mathematics/dm-generate-solutions-prompt.md](prompts/education/discrete-mathematics/dm-generate-solutions-prompt.md) — Discrete Mathematics Solution Prompt Guide. Enforces: LaTeX math, mandatory diagrams (Hasse, graphs, trees, Venn), marks-based depth rules, 4-phase workflow and strict examiner review.
+
+- [prompts/education/microprocessor/mp-generate-solutions-prompt.md](prompts/education/microprocessor/mp-generate-solutions-prompt.md) — Microprocessor Solution Prompt Guide (8085 & 8051). Enforces: exam-structured LaTeX solutions, mandatory diagrams/waveforms for hardware/timing/interfacing questions, CO/unit mapping, 4-phase workflow (decoding → solve → examiner review → LaTeX cleanup).
 
 - [prompts/education/theory-of-computation/toc-master-prompt.md](prompts/education/theory-of-computation/toc-master-prompt.md) — Theory of Computation FINAL MASTER PROMPT. Enforces: full LaTeX output, formal models (tuples/grammars/TM definitions), mandatory TikZ/ASCII diagrams for automata, CO/unit mapping, marks-based answer structure, 4-phase workflow and LaTeX validation.
 
